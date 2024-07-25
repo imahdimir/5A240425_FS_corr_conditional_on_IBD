@@ -180,3 +180,12 @@ def _test() :
     pass
 
     ##
+    fn = '/Users/mmir/Library/CloudStorage/Dropbox/flt_snps.prq'
+
+    df = pd.read_parquet(fn)
+
+    ##
+
+    ##
+
+    ##

@@ -71,6 +71,13 @@ def make_chr_ibd_segs_cord_prq(chr_num) :
     """ """
 
     ##
+    def _test() :
+        pass
+
+        ##
+        chr_num = 22
+
+    ##
     fn = fp.ibd_segs.format(chr = chr_num)
 
     ##
